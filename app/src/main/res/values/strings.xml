@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Совет дня</string>
+    <string name="title_advice">Совет дня</string>
+    <string name="btn_new_advice">Новый совет</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="share_title">Поделиться советом</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
